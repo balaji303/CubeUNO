@@ -9,3 +9,4 @@ STM Cube MX like tool for Arduino UNO
 3. Select any option from the required Pin's dropdown box
 4. Click on " Generate Code " button
 5. Open output.ino from output folder and Upload the Code to Arduino UNO
+

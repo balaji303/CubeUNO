@@ -1,5 +1,7 @@
 # CubeUNO
 
+[![CodeFactor](https://www.codefactor.io/repository/github/balaji303/cubeuno/badge)](https://www.codefactor.io/repository/github/balaji303/cubeuno)
+
 STM Cube MX like tool for Arduino UNO
 
 # How to Use?

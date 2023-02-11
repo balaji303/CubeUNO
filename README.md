@@ -4,7 +4,7 @@
 
 STM Cube MX like tool for Arduino UNO
 
-<img src="https://raw.githubusercontent.com/balaji303/CubeUNO/blob/main/artifacts/ReadMeAssert.jpg" alt="CubeUNO" class="inline"/>
+<img src="https://raw.githubusercontent.com/balaji303/CubeUNO/main/artifacts/ReadMeAssert.jpg" alt="CubeUNO" class="inline"/>
 
 
 ## How to Use?
@@ -19,4 +19,4 @@ STM Cube MX like tool for Arduino UNO
 
 Conversation with Arduino's Co-Founder
 
-<img src="https://raw.githubusercontent.com/balaji303/CubeUNO/blob/main/artifacts/Banzi_cmds.png" alt="CubeUNO" class="inline"/>
+<img src="https://raw.githubusercontent.com/balaji303/CubeUNO/main/artifacts/Banzi_cmds.png" alt="CubeUNO" class="inline"/>

@@ -4,7 +4,10 @@
 
 STM Cube MX like tool for Arduino UNO
 
-# How to Use?
+<img src="https://raw.githubusercontent.com/balaji303/CubeUNO/blob/main/artifacts/ReadMeAssert.jpg" alt="CubeUNO" class="inline"/>
+
+
+## How to Use?
 
 1. Download and UnZip the latest release file
 2. Open the CubeUNO.exe file
@@ -12,3 +15,8 @@ STM Cube MX like tool for Arduino UNO
 4. Click on " Generate Code " button
 5. Open output.ino from output folder and Upload the Code to Arduino UNO
 
+## Aritfacts
+
+Conversation with Arduino's Co-Founder
+
+<img src="https://raw.githubusercontent.com/balaji303/CubeUNO/blob/main/artifacts/Banzi_cmds.png" alt="CubeUNO" class="inline"/>

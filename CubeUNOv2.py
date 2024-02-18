@@ -31,7 +31,7 @@ class AppGUI(wx.Frame):
 
         # create button at point (20, 20)
         self.gen_button = wx.Button(self, id = 1, label ="Generate Code", pos =(300, 620),
-                                          size = wx.DefaultSize,  name ="button")
+                                          size = wx.DefaultSize, name ="button")
 
         self.gen_button.Bind (wx.EVT_BUTTON, self.gen_cmd)
 
